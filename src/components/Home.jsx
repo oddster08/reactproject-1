@@ -12,7 +12,7 @@ const Home = () => {
     <>
       <div className="home" id="home">
         <main>
-          <h1>TechyStar</h1>
+          <h1>LaserTech</h1>
           <p>Solution to all your problems</p>
         </main>
       </div>
@@ -24,7 +24,7 @@ const Home = () => {
           <p>
             We are your one and only solution to the tech problems you face
             every day. We are leading tech company whose aim is to increase the
-            problem solving ability in children.
+            problem solving in this moulds industry. We do repairing, laser cutting, make new moulds and many more.
           </p>
         </div>
       </div>
@@ -44,9 +44,7 @@ const Home = () => {
             aperiam, ullam officia fugiat corrupti odio, suscipit ipsum cum vel
             nemo. Ratione quo tempore fugit quaerat! Facilis beatae impedit
             similique maxime praesentium sunt unde necessitatibus voluptates
-            ipsa, et, numquam reiciendis eveniet? Aliquid nemo nesciunt placeat,
-            qui fuga quae repellat sunt, non natus, iure ab officia rem ipsa cum
-            sed cumque corporis voluptate quibusdam nostrum quod saepe
+            ipsa, et, numquam reiciendis eveniet?
           </p>
         </div>
       </div>
